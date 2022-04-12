@@ -1,5 +1,5 @@
 # Description: 
-“Marbles game” designing by using MIPS.
+“Marbles game” designed by using MIPS.
 
 
 It has only three rounds. Each of you has 10 marbles. In each round, you have to enter a bet number and guess your enemy’s bets (even or odd). Once you have correct 
